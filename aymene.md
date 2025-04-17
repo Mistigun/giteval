@@ -366,3 +366,27 @@ git branch -d form
 ```
 git status
 ```
+
+# Ensuite
+```
+git checkout master
+```
+# Ensuite
+```
+git merge guilhemv4
+```
+# Ensuite
+```
+git add *
+```
+# Ensuite
+```
+git commit -m "modification fichier md aymene"
+
+```
+# Ensuite
+```
+git push -u origin master
+
+```
+
