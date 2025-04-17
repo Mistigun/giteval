@@ -23,6 +23,7 @@ nav {
     width: 25%;
 }
 nav a {
+    justify-content: space-evenly;
     display: flex;
     display: block;
     text-decoration: none;
