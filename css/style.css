@@ -57,3 +57,12 @@ footer {
     width: 100%;
     background-color: lightpink;
 } 
+
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+main img {
+width: 60%;
+}
