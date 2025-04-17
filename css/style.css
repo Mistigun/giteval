@@ -5,4 +5,15 @@
 }
 body {
     background-color: lightblue;
+    display: flex;
+    flex-wrap: wrap ;
+}
+
+header {
+    background-color: lightcoral;
+    width: 100%;
+}
+
+header img {
+    height: 2em;
 }
